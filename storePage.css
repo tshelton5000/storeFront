@@ -1,0 +1,77 @@
+body{
+    padding: 0em 0em 0em 0em;
+    margin: 0em 0em 0em 0em;
+}
+
+header {
+    background-image: url('../9-assets/anchorman\ banner.jpg');
+    background-size: 100vw 16vh;
+    width: 100vw;
+    height: 15vh;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.socialMedia {
+    width: 10px;
+    height: 10px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.socMedList {
+    float: right;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+/*.socMedBanner {
+    list-style-type: none;
+    margin: 0em;
+    padding: 0em;
+    overflow: hidden;
+}*/
+
+#siteName {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    margin: 0;
+    display: inline-block;
+}
+
+.navButtonBanner{
+    list-style-type: none;
+    margin: 0em;
+    padding: 0em;
+    overflow: hidden;
+    background-color: #1e4211;
+}
+
+.navButtonList {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navButton {
+    display: block;
+    color: white;
+    background-color: #1e4211;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding: 1vh 8.55vw 1vh 8.55vw;
+}
+
+.navButton:hover{
+    background-color: white;
+    color: #1e4211;
+}
+
+body {
+    background-color: #ffb600;
+}
